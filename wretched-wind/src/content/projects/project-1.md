@@ -1,11 +1,11 @@
 ---
-title: 'Project 1'
+title: 'Tschos Adventure'
 description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
 image:
-    url: '/GitHub.webp'
+    url: '/20222802_Startbildschirm.png'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
+    url: '/20222802_Startbildschirm.png'
     alt: 'first image of your project.'
 worksImage2:
     url: '/image-2.webp'

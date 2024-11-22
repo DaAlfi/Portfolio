@@ -1,8 +1,8 @@
 ---
-title: 'Project 2'
+title: 'Survival Ignaz'
 description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
 image:
-    url: '/GitHub.webp'
+    url: '/20231205_SYP_Projekt_Startbildschirm_Brunhuber.png'
     alt: 'GitHub wallpaper'
 worksImage1:
     url: '/image-1.webp'
