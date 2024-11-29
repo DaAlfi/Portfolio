@@ -1,19 +1,19 @@
 ---
 title: 'Survival Ignaz'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+description: '2D Survival Game'
 image:
     url: '/20231205_SYP_Projekt_Startbildschirm_Brunhuber.png'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
+    url: '/20232303_SYP_Projekt_Map_Brunhuber.png'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/image-2.webp'
+    url: '/20231205_SYP_Projekt_Startbildschirm_Brunhuber.png'
     alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+platform: PC
+stack: Photoshop, Illustrator, Unity
+website: https://github.com/DaAlfi
+github: https://github.com/BernhardPirchner/Survival_Ignaz
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+In the 3rd grade, I developed a 2D survival game called "Survival Ignaz" with two other project members. In this game, players must survive multiple waves of zombies and strategically fight against them. The game features different phases and unique graphics that I designed myself. It was implemented in Unity, while the design was created in Photoshop and Illustrator.

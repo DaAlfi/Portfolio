@@ -90,8 +90,7 @@ small, li {
 .gif {
     margin: 10px 0 0 0;
     text-align: center;
-    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.15);
-
+    border-radius: 10px;
 }
 
 /* Badge */
@@ -136,7 +135,7 @@ small, li {
     list-style: none;
     display: flex;
     background-size: 400%;
-    padding: 20px;
+    padding: 4px;
 }
 
 .card__link {
@@ -148,23 +147,26 @@ small, li {
 }
 
 .card__img {
-    border-radius: 16px;
+    border-radius: 5px;
+    width: 100%;
+    height: 175px;
 }
 
 .card__title {
-    margin: 0;
+    margin-top: -5px;
     font-family: var(--body);
     font-size: 1.5rem;
     font-weight: normal;
     text-align: center;
+    color:gold;
 }
 
 .card__txt {
-    font-size: 1rem;
+    font-size: 0.9rem;
     line-height: 1.5;
     text-indent: 0;
     text-align: center;
-    margin: 0.5rem 0 0;
+    margin: -30px 0 0;
 }
 
 .card__link:hover {
@@ -213,6 +215,7 @@ small, li {
 .pro-img {
     border-radius: 16px;
     margin-top: 10px;
+    height: 100%;
 }
 
 /* Footer */
